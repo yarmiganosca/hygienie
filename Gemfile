@@ -26,5 +26,5 @@ end
 
 group :test do
   gem 'rspec'
-  gem 'rpsec-rails'
+  gem 'rspec-rails'
 end
